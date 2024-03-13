@@ -1,0 +1,433 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+}
+.first img{
+    height: 25px;
+}
+.ftext{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.logins{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.logins button{
+    background-color: #ef5c2b;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
+.log button{
+    background-color: #ffffff;
+}
+.second{
+    background-color: #f4fffc;
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 100px;
+}
+.sec{
+
+}
+.second img{
+    height: 450px;
+}
+.gateway h1{
+    font-size: 50px;
+}
+.gateway p{
+    padding-top: 30px;
+    color: #9a9c9c;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+.fill_location{
+    background-color: white;
+    padding-right: 50px;
+    padding-left: 30px;
+    padding-top: 50px; 
+    padding-bottom: 50px;
+    width: 600px;
+    border-radius: 20px;
+}
+.firfill{
+    display: flex;
+    justify-content: space-between;
+}
+
+.applying select{
+    padding: 10px 70px 10px 70px;
+    border-radius: 5px;
+    border-color: #d3dbe5;
+}
+.sec_layer{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.sec_layer select{
+    border-radius: 5px;
+    border-color: #d3dbe5;
+    padding: 10px 100px 10px 10px;
+}
+.sec_layer button{
+    background-color: #ef5c2b;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 100px 10px 58px;
+}
+.passport input{
+    padding:10px 100px 10px 10px ;
+    border-radius: 5px;
+    border-color:#d3dbe5;
+}
+.third{
+    padding: 50px 50px 50px 30px;
+}
+.desti{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.destination{
+    background-color: #0c93f2;
+    color: white;
+    border-radius: 30px;
+    padding: 50px 30px 50px 30px;
+    margin-right: 40px;
+}
+.destination i{
+    padding-bottom: 50px;
+    font-size: 30px;
+}
+.destination h1{
+    padding-bottom: 30px;  
+    font-size: 30px;
+}
+.visainfo{
+    background-color: #faf6ff;
+    border-radius: 30px;
+    padding: 50px 30px 50px 30px;
+}
+.visainfo i{
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: #7825ff;
+}
+.visainfo h1{
+    padding-bottom: 30px;  
+    font-size: 30px;
+    color: #7825ff;
+}
+.desti2{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    
+}
+.required{
+    background-color:#ebfcf6;
+    border-radius: 30px;
+    padding: 50px 30px 50px 30px;
+}
+.required i{
+    padding-bottom: 50px;
+    font-size: 30px;
+    color: #2ba97e;
+}
+.required h1{
+    padding-bottom: 30px;  
+    font-size: 30px;
+    color: #2ba97e;
+}
+.approval{
+    background-color: #fff4fe;
+    border-radius: 30px;
+    padding: 50px 30px 50px 30px;
+    margin-left: 40px;
+}
+.approval i{
+    padding-bottom: 50px;
+    font-size: 30px;
+    color:#d57acb ;
+}
+.approval h1{
+    color: #d57acb;
+    padding-bottom: 30px;  
+    font-size: 30px;
+}
+.fourth{
+    padding: 50px 50px 50px 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.houses{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.houses img{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.usa{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.usa p{
+color: #868686;
+}
+.usa h3{
+    color: #fd7740;
+}
+.usa h6{
+    font-size: 20px;
+    color: #fd7740;
+}
+.uk{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.uk h3{
+    color: #fd7740;
+}
+.uk p{
+    color: #868686;
+}
+.uk h6{
+    font-size: 20px;
+    color: #fd7740;
+}
+.turkey{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.turkey h3{
+    color: #fd7740;
+}
+.turkey p{
+    color: #868686;
+}
+.turkey h6{
+    font-size: 20px;
+    color: #fd7740;
+}
+.dubai{
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.dubai h3{
+    color: #fd7740;
+}
+.dubai p{
+    color: #868686;
+}
+.dubai h6{
+    font-size: 20px;
+    color: #fd7740;
+}
+.fifth{
+    padding: 50px 50px 50px 30px;
+}
+.fifth img{
+    height: 300px;
+    width: 100%;
+}
+.fifth h1{
+    padding-bottom: 20px;
+}
+.city{
+    display: flex;
+    justify-content:space-between ;
+}
+.rightp{
+    padding-right: 20px;
+}
+.rightp h1{
+    font-size: 15px;
+}
+.notes{
+    padding-left: 20px;
+    padding-right: 40px;
+}
+.firstaug{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    color: #8f8f8f;
+}
+.rightp2{
+    padding-right: 20px;
+}
+.secondaug{
+display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    color: #8f8f8f;
+}
+.notes2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.notes2 h1{
+    font-size: 15px;
+}
+.rightp3{
+    padding-right: 20px;
+}
+.rightp3 h1{
+font-size: 15px;
+}
+.notes3{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.thirdaug{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    color: #8f8f8f;
+}
+.rightp4{
+/* padding-right: 20px; */
+}
+.rightp4 h1{
+    font-size: 15px;
+}
+.fourthaug{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.fifth{
+    padding: 50px 50px 50px 30px;
+    background-color: #fafcfe;
+}
+.fifth h1{
+    text-align: center;
+    font-size: 30px;
+}
+.chi{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.chi img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 130px;
+}
+.firsometimes{
+    background-color: #f8f5ff;
+    border-radius: 5px;
+}
+.firsometimes p{
+    padding: 20px 20px 20px 20px;
+}
+.firsometimes h4{
+    text-align: center;
+    color: #fd7740;
+}
+.firsometimes p{
+    text-align: center;
+}
+.sixth{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1e1e1e;
+    color: white;
+    padding: 100px 300px 50px 50px;
+}
+.sixth p{
+    padding-bottom: 20px;
+}
+.company li > a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.company li{
+    list-style: none;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.top li > a{
+    text-decoration:none;
+    color: inherit;
+}
+
+.top li{
+    list-style: none;
+    color: white;
+    padding-bottom: 20px;
+}
+.resources li > a {
+    text-decoration: none;
+    color: white;
+}
+.resources li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+.otherinfo li > a{
+    text-decoration: none;
+    color: white;
+}
+.otherinfo li{
+    list-style: none;
+    padding-bottom: 20px;
+}
+.seventh{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 30px 30px;
+    background-color: #1e1e1e;
+}
+.seventh p{
+    color: white;
+    font-size: 13px;
+}
+.seventh i{
+    color: white;
+}
+.brands{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
